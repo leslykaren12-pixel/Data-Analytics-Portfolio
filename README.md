@@ -1,36 +1,46 @@
-# Data-Analytics-Portfolio
-Portfolio of Data Analytics, SQL, Python, Machine Learning and Business Intelligence projects.
+# Lesly Figueroa
 
-# Lesly Figueroa - Data Analytics Portfolio
+## Data Analyst | Python | SQL | Machine Learning | Power BI
 
-Welcome to my Data Analytics portfolio.
+Welcome to my Data Analytics Portfolio.
 
-I am a Quality Analyst transitioning into Data Analytics and Data Science, with experience in data analysis, process optimization, quality systems, and business intelligence.
+I am a Quality Analyst with experience in data analysis, process optimization, quality systems, and business intelligence. I am currently expanding my expertise in Data Analytics, Machine Learning, and Data Science.
 
 ## Technical Skills
 
+### Programming & Analytics
 - Python
 - SQL
 - Machine Learning
+- Statistics
 - Data Analysis
+
+### Business Intelligence
 - Power BI
 - Excel
-- Statistics
 - Data Visualization
+- KPI Development
 
-## Featured Projects
+### Professional Experience
+- Quality Control
+- Process Improvement
+- Technical Documentation
+- Regulatory Compliance
 
-### Project 1 - Customer Churn Prediction
-Machine Learning model to predict customer churn using Python and Scikit-Learn.
+## Portfolio Projects
 
-### Project 2 - SQL Business Analysis
-Business analysis project using SQL queries to identify trends and key performance indicators.
+### Machine Learning
+Projects focused on predictive analytics and classification models.
 
-### Project 3 - Sales Dashboard
-Interactive Power BI dashboard for sales performance monitoring.
+### SQL
+Business analysis and database querying projects.
 
-## Contact
+### Python
+Data cleaning, transformation, and exploratory analysis projects.
 
-LinkedIn: https://www.linkedin.com/in/leslykarenfigueroasantos/
+### Power BI
+Interactive dashboards and business intelligence solutions.
 
-GitHub: github.com/leslykaren12-pixel
+## Current Goal
+
+Transitioning into Data Analytics and Data Science roles while building practical projects that demonstrate analytical and technical capabilities.
